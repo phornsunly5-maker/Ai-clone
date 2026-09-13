@@ -3,7 +3,7 @@ import requests
 
 # ដាក់ Token និង API Key របស់អ្នកនៅទីនេះ
 TELEGRAM_TOKEN = "8888082315:AAEEt0_g1AnpY3_ZZYKFGGeR2X3u5q7LgN8"
-OPENROUTER_API = "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"
+OPENROUTER_API = "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"
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
